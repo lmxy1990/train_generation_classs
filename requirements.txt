@@ -1,0 +1,8 @@
+fastapi==0.116.1
+uvicorn>=0.21.1
+torch==2.8.0
+transformers==4.53.1
+accelerate==1.10.0
+pydantic==2.11.7
+starlette==0.47.2
+uvicorn==0.35.0
